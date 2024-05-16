@@ -1,7 +1,12 @@
 class Solution {
     public int findMin(int[] nums) {
-        Arrays.sort(nums);
-        return nums[0];
+       int n=nums.length;
+       int min=Integer.MAX_VALUE;
+       for(int i=0;i<n;i++)
+       {
+         min=Math.min(min,nums[i]);
+       }
+       return min;
         
     }
 }
