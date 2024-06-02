@@ -11,3 +11,8 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0344-reverse-string) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+# Array
+|  |
+| ------- |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3165-find-indices-with-index-and-value-difference-i) |
