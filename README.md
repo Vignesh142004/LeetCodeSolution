@@ -6,6 +6,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0344-reverse-string) |
+| [0742-to-lower-case](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0742-to-lower-case) |
 | [3379-score-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3408-count-the-number-of-special-characters-i) |
 # Two Pointers
