@@ -22,6 +22,7 @@ Here you can find the Solution for Various Leedcode problem
 # Array
 |  |
 | ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -64,6 +65,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0412-fizz-buzz) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -110,3 +112,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [2083-three-divisors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
+# Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1395-minimum-time-visiting-all-points) |
