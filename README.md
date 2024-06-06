@@ -9,6 +9,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0412-fizz-buzz](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0742-to-lower-case) |
+| [1954-replace-all-digits-with-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1954-replace-all-digits-with-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
 | [3379-score-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3379-score-of-a-string) |
