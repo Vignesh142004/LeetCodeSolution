@@ -124,3 +124,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0461-hamming-distance) |
