@@ -34,6 +34,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0783-search-in-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0783-search-in-a-binary-search-tree) |
 # Monotonic Stack
 |  |
 | ------- |
@@ -59,3 +61,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0412-fizz-buzz) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0783-search-in-a-binary-search-tree) |
