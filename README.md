@@ -21,6 +21,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2639-separate-the-digits-in-an-array) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 # Hash Table
@@ -60,6 +61,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0412-fizz-buzz](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0412-fizz-buzz) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2748-calculate-delayed-arrival-time) |
 | [2998-count-symmetric-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2998-count-symmetric-integers) |
 # Prefix Sum
@@ -91,3 +93,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0678-valid-parenthesis-string) |
+# Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
