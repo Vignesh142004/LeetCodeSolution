@@ -23,7 +23,8 @@ class Solution {
             {
                 ans[i]=pos.get(a++);
             }
-            else{
+            else
+            {
             ans[i]=neg.get(b++);
             }
         }
