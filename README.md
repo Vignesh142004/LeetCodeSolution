@@ -18,10 +18,12 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 # Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -33,6 +35,7 @@ Here you can find the Solution for Various Leedcode problem
 # Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3408-count-the-number-of-special-characters-i) |
 # Stack
 |  |
@@ -88,6 +91,7 @@ Here you can find the Solution for Various Leedcode problem
 # Binary Search Tree
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0783-search-in-a-binary-search-tree) |
 # Breadth-First Search
 |  |
@@ -116,3 +120,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1395-minimum-time-visiting-all-points) |
+# Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
