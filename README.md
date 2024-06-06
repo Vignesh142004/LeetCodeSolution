@@ -9,6 +9,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0412-fizz-buzz](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0742-to-lower-case) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3408-count-the-number-of-special-characters-i) |
 # Two Pointers
@@ -22,6 +23,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2639-separate-the-digits-in-an-array) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 # Hash Table
@@ -73,6 +75,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0412-fizz-buzz) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2639-separate-the-digits-in-an-array) |
 # Binary Search Tree
 |  |
