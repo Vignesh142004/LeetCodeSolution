@@ -33,6 +33,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2639-separate-the-digits-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2639-separate-the-digits-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 # Hash Table
 |  |
 | ------- |
