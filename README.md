@@ -91,6 +91,7 @@ Here you can find the Solution for Various Leedcode problem
 # Binary Search Tree
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0783-search-in-a-binary-search-tree) |
 # Breadth-First Search
@@ -133,3 +134,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0191-number-of-1-bits) |
+# Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0278-first-bad-version) |
