@@ -44,6 +44,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0575-distribute-candies) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3408-count-the-number-of-special-characters-i) |
 # Stack
 |  |
@@ -80,6 +81,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1965-sum-of-digits-in-base-k) |
 | [2083-three-divisors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -160,3 +162,4 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1844-maximum-number-of-balls-in-a-box) |
