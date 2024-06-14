@@ -28,6 +28,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0575-distribute-candies](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0575-distribute-candies) |
 | [0841-shortest-distance-to-a-character](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -110,6 +111,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0074-search-a-2d-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0783-search-in-a-binary-search-tree) |
 # Breadth-First Search
 |  |
@@ -144,6 +146,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 # Bit Manipulation
@@ -163,8 +166,13 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 # Counting
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1844-maximum-number-of-balls-in-a-box) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
