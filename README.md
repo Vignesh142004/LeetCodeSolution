@@ -212,3 +212,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0232-implement-queue-using-stacks) |
+# Database
+|  |
+| ------- |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
