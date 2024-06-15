@@ -66,6 +66,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -204,8 +205,10 @@ Here you can find the Solution for Various Leedcode problem
 # Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0232-implement-queue-using-stacks) |
 # Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0232-implement-queue-using-stacks) |
