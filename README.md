@@ -36,6 +36,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0485-max-consecutive-ones](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0575-distribute-candies) |
 | [0841-shortest-distance-to-a-character](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
+| [0944-smallest-range-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0944-smallest-range-i) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -101,6 +102,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0412-fizz-buzz) |
+| [0944-smallest-range-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0944-smallest-range-i) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1693-sum-of-all-odd-length-subarrays) |
