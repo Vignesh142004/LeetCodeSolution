@@ -29,6 +29,7 @@ Here you can find the Solution for Various Leedcode problem
 # Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
@@ -121,6 +122,7 @@ Here you can find the Solution for Various Leedcode problem
 # Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0657-robot-return-to-origin) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1505-create-target-array-in-the-given-order) |
@@ -193,6 +195,7 @@ Here you can find the Solution for Various Leedcode problem
 # Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 # Counting
