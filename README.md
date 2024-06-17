@@ -31,6 +31,7 @@ Here you can find the Solution for Various Leedcode problem
 # Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0075-sort-colors) |
@@ -157,6 +158,7 @@ Here you can find the Solution for Various Leedcode problem
 # Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0678-valid-parenthesis-string) |
 # Greedy
 |  |
@@ -192,6 +194,7 @@ Here you can find the Solution for Various Leedcode problem
 # Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0191-number-of-1-bits) |
 # Interactive
 |  |
