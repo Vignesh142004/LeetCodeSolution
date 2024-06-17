@@ -16,6 +16,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
 | [3379-score-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3447-clear-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3447-clear-digits) |
 # Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2122-count-special-quadruplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2122-count-special-quadruplets) |
 | [2561-number-of-distinct-averages](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2561-number-of-distinct-averages) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3447-clear-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3447-clear-digits) |
 # Stack
 |  |
 | ------- |
@@ -142,6 +144,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1505-create-target-array-in-the-given-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1505-create-target-array-in-the-given-order) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2639-separate-the-digits-in-an-array) |
+| [3447-clear-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3447-clear-digits) |
 # Binary Search Tree
 |  |
 | ------- |
