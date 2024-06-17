@@ -39,6 +39,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0075-sort-colors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0485-max-consecutive-ones) |
@@ -130,6 +131,7 @@ Here you can find the Solution for Various Leedcode problem
 # Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0238-product-of-array-except-self) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1693-sum-of-all-odd-length-subarrays) |
 # Simulation
 |  |
