@@ -3,19 +3,20 @@ class Solution {
         int n=strs.length;
         Arrays.sort(strs);
         int i=0;
-        String one=strs[0];
-        String two=strs[n-1];
-        while(i<one.length() && i<two.length())
+        String first=strs[0];
+        String last=strs[n-1];
+        while(i<first.length() && i<last.length())
         {
-            if(one.charAt(i)==two.charAt(i))
+            if(first.charAt(i)==last.charAt(i))
             {
-                i++;
+                i++;  
             }
             else{
             break;
             }
         }
-        return one.substring(0,i);
+        String ans= first.substring(0,i);
+        return ans;
         
     }
 }
