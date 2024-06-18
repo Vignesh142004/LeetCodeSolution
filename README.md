@@ -5,6 +5,7 @@ Here you can find the Solution for Various Leedcode problem
 # String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0242-valid-anagram) |
@@ -265,3 +266,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
+# Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0014-longest-common-prefix) |
