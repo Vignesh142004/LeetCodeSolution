@@ -6,6 +6,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0657-robot-return-to-origin) |
@@ -70,6 +71,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -201,6 +203,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0075-sort-colors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0982-minimum-increment-to-make-array-unique) |
