@@ -8,6 +8,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0344-reverse-string) |
@@ -40,6 +41,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
@@ -73,6 +75,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0242-valid-anagram) |
@@ -205,6 +208,7 @@ Here you can find the Solution for Various Leedcode problem
 # Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0217-contains-duplicate) |
