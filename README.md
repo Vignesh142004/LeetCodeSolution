@@ -65,6 +65,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2122-count-special-quadruplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2122-count-special-quadruplets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2561-number-of-distinct-averages](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2561-number-of-distinct-averages) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2639-separate-the-digits-in-an-array) |
