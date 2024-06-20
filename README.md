@@ -98,6 +98,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0020-valid-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0678-valid-parenthesis-string) |
@@ -107,6 +108,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0783-search-in-a-binary-search-tree) |
@@ -117,6 +119,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0975-range-sum-of-bst) |
@@ -126,6 +129,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0783-search-in-a-binary-search-tree) |
