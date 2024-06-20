@@ -73,6 +73,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2561-number-of-distinct-averages](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2561-number-of-distinct-averages) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2639-separate-the-digits-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -316,3 +317,4 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2341-count-prefixes-of-a-given-string) |
