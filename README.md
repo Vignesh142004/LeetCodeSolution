@@ -19,6 +19,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0841-shortest-distance-to-a-character](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
 | [1954-replace-all-digits-with-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1954-replace-all-digits-with-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
 | [3379-score-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -71,6 +72,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2561-number-of-distinct-averages](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2561-number-of-distinct-averages) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2639-separate-the-digits-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -307,3 +309,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0062-unique-paths) |
+# String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2292-counting-words-with-a-given-prefix) |
