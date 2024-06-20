@@ -82,6 +82,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2341-count-prefixes-of-a-given-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2561-number-of-distinct-averages](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2561-number-of-distinct-averages) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2639-separate-the-digits-in-an-array) |
+| [2881-split-strings-by-separator](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -328,3 +329,4 @@ Here you can find the Solution for Various Leedcode problem
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2881-split-strings-by-separator](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
