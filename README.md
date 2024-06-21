@@ -76,6 +76,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2122-count-special-quadruplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2122-count-special-quadruplets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2165-plates-between-candles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2165-plates-between-candles) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -177,6 +178,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0238-product-of-array-except-self) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2165-plates-between-candles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2165-plates-between-candles) |
 # Simulation
 |  |
 | ------- |
@@ -200,6 +202,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0975-range-sum-of-bst) |
+| [2165-plates-between-candles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2165-plates-between-candles) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -330,6 +333,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1899-count-items-matching-a-rule) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2165-plates-between-candles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2165-plates-between-candles) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2341-count-prefixes-of-a-given-string) |
