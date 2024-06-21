@@ -155,6 +155,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0633-sum-of-square-numbers) |
 | [0944-smallest-range-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0944-smallest-range-i) |
@@ -190,6 +191,7 @@ Here you can find the Solution for Various Leedcode problem
 # Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
