@@ -17,7 +17,7 @@ public class Solution extends VersionControl {
                  last=mid;
             }
         }
-        return first;
+        return last;
         
     }
 }
