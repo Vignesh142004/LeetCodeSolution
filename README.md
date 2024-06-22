@@ -91,6 +91,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2442-number-of-arithmetic-triplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2561-number-of-distinct-averages) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2639-separate-the-digits-in-an-array) |
+| [2777-find-the-distinct-difference-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2777-find-the-distinct-difference-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -116,6 +117,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2122-count-special-quadruplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2561-number-of-distinct-averages) |
+| [2777-find-the-distinct-difference-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2777-find-the-distinct-difference-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3242-count-elements-with-maximum-frequency) |
