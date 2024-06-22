@@ -98,6 +98,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3242-count-elements-with-maximum-frequency) |
 # Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2561-number-of-distinct-averages](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2561-number-of-distinct-averages) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3447-clear-digits) |
 # Stack
@@ -314,6 +316,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3242-count-elements-with-maximum-frequency) |
 # Heap (Priority Queue)
 |  |
 | ------- |
