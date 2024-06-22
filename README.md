@@ -74,6 +74,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1675-magnetic-force-between-two-balls](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1720-crawler-log-folder](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1720-crawler-log-folder) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1899-count-items-matching-a-rule) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -132,6 +133,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0678-valid-parenthesis-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1720-crawler-log-folder](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1720-crawler-log-folder) |
 # Tree
 |  |
 | ------- |
@@ -367,6 +369,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1078-remove-outermost-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1720-crawler-log-folder](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1720-crawler-log-folder) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1899-count-items-matching-a-rule) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2093-check-if-string-is-a-prefix-of-array) |
