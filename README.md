@@ -97,6 +97,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3220-count-tested-devices-after-test-operations) |
 # Hash Table
 |  |
 | ------- |
@@ -207,6 +208,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3447-clear-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3447-clear-digits) |
 # Binary Search Tree
 |  |
