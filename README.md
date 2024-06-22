@@ -96,6 +96,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3206-find-common-elements-between-two-arrays) |
 # Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2442-number-of-arithmetic-triplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2561-number-of-distinct-averages) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3447-clear-digits) |
 # Stack
