@@ -75,6 +75,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1720-crawler-log-folder](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1720-crawler-log-folder) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1899-count-items-matching-a-rule) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -136,6 +137,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1078-remove-outermost-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1720-crawler-log-folder) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 # Tree
 |  |
 | ------- |
@@ -211,6 +213,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0657-robot-return-to-origin](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0657-robot-return-to-origin) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1505-create-target-array-in-the-given-order) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2639-separate-the-digits-in-an-array) |
@@ -338,6 +341,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0225-implement-stack-using-queues](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0232-implement-queue-using-stacks) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 # Database
 |  |
 | ------- |
