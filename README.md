@@ -39,6 +39,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2561-number-of-distinct-averages) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -85,6 +86,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2561-number-of-distinct-averages) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2639-separate-the-digits-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
@@ -106,6 +108,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2122-count-special-quadruplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2122-count-special-quadruplets) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2561-number-of-distinct-averages) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3447-clear-digits) |
@@ -226,6 +229,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [2083-three-divisors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2122-count-special-quadruplets) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2998-count-symmetric-integers) |
 # Dynamic Programming
 |  |
