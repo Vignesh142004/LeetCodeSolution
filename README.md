@@ -64,6 +64,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0841-shortest-distance-to-a-character](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
 | [0944-smallest-range-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0944-smallest-range-i) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1031-add-to-array-form-of-integer) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -198,6 +199,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0054-spiral-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0657-robot-return-to-origin) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1505-create-target-array-in-the-given-order) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -272,6 +274,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -322,6 +325,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0232-implement-queue-using-stacks) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0987-reveal-cards-in-increasing-order) |
 # Database
 |  |
 | ------- |
