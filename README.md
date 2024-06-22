@@ -46,6 +46,7 @@ Here you can find the Solution for Various Leedcode problem
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0053-maximum-subarray) |
@@ -105,6 +106,7 @@ Here you can find the Solution for Various Leedcode problem
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
