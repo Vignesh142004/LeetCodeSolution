@@ -36,6 +36,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0633-sum-of-square-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0841-shortest-distance-to-a-character](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
+| [0979-di-string-match](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0979-di-string-match) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -67,6 +68,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0682-baseball-game](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0682-baseball-game) |
 | [0841-shortest-distance-to-a-character](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
 | [0944-smallest-range-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0944-smallest-range-i) |
+| [0979-di-string-match](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1031-add-to-array-form-of-integer) |
@@ -276,6 +278,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0979-di-string-match](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -391,6 +394,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0071-simplify-path](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0071-simplify-path) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0979-di-string-match](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0979-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1078-remove-outermost-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1720-crawler-log-folder](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1720-crawler-log-folder) |
