@@ -66,6 +66,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0485-max-consecutive-ones](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0682-baseball-game) |
+| [0816-design-hashset](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0816-design-hashset) |
 | [0841-shortest-distance-to-a-character](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
 | [0944-smallest-range-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0944-smallest-range-i) |
 | [0979-di-string-match](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0979-di-string-match) |
@@ -124,6 +125,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0816-design-hashset](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0816-design-hashset) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2122-count-special-quadruplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2122-count-special-quadruplets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -356,6 +358,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0232-implement-queue-using-stacks) |
+| [0816-design-hashset](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0816-design-hashset) |
 # Queue
 |  |
 | ------- |
@@ -371,6 +374,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
+| [0816-design-hashset](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0816-design-hashset) |
 # Quickselect
 |  |
 | ------- |
@@ -422,3 +426,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1013-fibonacci-number) |
+# Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0816-design-hashset) |
