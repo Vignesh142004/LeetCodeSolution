@@ -91,6 +91,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2165-plates-between-candles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2165-plates-between-candles) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -125,6 +126,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2122-count-special-quadruplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2122-count-special-quadruplets) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2561-number-of-distinct-averages) |
 | [2777-find-the-distinct-difference-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2777-find-the-distinct-difference-array) |
@@ -342,6 +344,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3242-count-elements-with-maximum-frequency) |
 # Heap (Priority Queue)
 |  |
@@ -403,6 +406,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2165-plates-between-candles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2165-plates-between-candles) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2341-count-prefixes-of-a-given-string) |
