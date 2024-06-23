@@ -402,6 +402,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2401-count-asterisks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2401-count-asterisks) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
 # Recursion
