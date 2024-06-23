@@ -69,6 +69,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1031-add-to-array-form-of-integer) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1505-create-target-array-in-the-given-order) |
