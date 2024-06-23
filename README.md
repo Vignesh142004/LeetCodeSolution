@@ -57,6 +57,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0136-single-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
@@ -114,6 +115,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0049-group-anagrams](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
@@ -375,6 +377,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0219-contains-duplicate-ii) |
 # Game Theory
 |  |
 | ------- |
