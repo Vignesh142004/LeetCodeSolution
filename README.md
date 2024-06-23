@@ -133,6 +133,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0225-implement-stack-using-queues) |
@@ -384,6 +385,7 @@ Here you can find the Solution for Various Leedcode problem
 # String Matching
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0071-simplify-path) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1078-remove-outermost-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1341-split-a-string-in-balanced-strings) |
