@@ -74,6 +74,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1031-add-to-array-form-of-integer) |
+| [1039-find-the-town-judge](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1039-find-the-town-judge) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -128,6 +129,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0817-design-hashmap) |
+| [1039-find-the-town-judge](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1039-find-the-town-judge) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2122-count-special-quadruplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2122-count-special-quadruplets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -436,3 +438,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0816-design-hashset](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0817-design-hashmap) |
+# Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1039-find-the-town-judge) |
