@@ -202,6 +202,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0633-sum-of-square-numbers) |
 | [0944-smallest-range-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0944-smallest-range-i) |
