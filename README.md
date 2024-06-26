@@ -296,6 +296,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0062-unique-paths](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0062-unique-paths) |
 | [0678-valid-parenthesis-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1013-fibonacci-number) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 # Greedy
 |  |
 | ------- |
@@ -465,6 +466,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0207-course-schedule](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0207-course-schedule) |
 | [0871-keys-and-rooms](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1039-find-the-town-judge) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 # Union Find
 |  |
 | ------- |
@@ -481,3 +483,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2533-bitwise-xor-of-all-pairings) |
+# Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
