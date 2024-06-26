@@ -66,6 +66,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0816-design-hashset) |
@@ -294,6 +295,7 @@ Here you can find the Solution for Various Leedcode problem
 # Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0979-di-string-match) |
@@ -323,6 +325,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0561-array-partition](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0561-array-partition) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -464,3 +467,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0207-course-schedule) |
+# Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0561-array-partition) |
