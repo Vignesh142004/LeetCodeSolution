@@ -222,6 +222,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1965-sum-of-digits-in-base-k) |
 | [2083-three-divisors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
