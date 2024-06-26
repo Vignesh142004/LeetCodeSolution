@@ -91,6 +91,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1899-count-items-matching-a-rule) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2122-count-special-quadruplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2122-count-special-quadruplets) |
@@ -225,6 +226,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1965-sum-of-digits-in-base-k) |
 | [2083-three-divisors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -347,6 +349,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0461-hamming-distance) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2533-bitwise-xor-of-all-pairings) |
 # Divide and Conquer
 |  |
