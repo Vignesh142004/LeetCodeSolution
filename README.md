@@ -104,6 +104,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2442-number-of-arithmetic-triplets) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2561-number-of-distinct-averages](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2561-number-of-distinct-averages) |
@@ -139,6 +140,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2122-count-special-quadruplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2122-count-special-quadruplets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2561-number-of-distinct-averages) |
 | [2777-find-the-distinct-difference-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2777-find-the-distinct-difference-array) |
@@ -352,6 +354,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0371-sum-of-two-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0461-hamming-distance) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2621-find-xor-beauty-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2621-find-xor-beauty-of-array) |
 # Divide and Conquer
@@ -485,6 +488,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0561-array-partition) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 # Brainteaser
 |  |
 | ------- |
