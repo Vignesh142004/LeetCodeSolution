@@ -104,6 +104,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2442-number-of-arithmetic-triplets) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2561-number-of-distinct-averages](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2561-number-of-distinct-averages) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2639-separate-the-digits-in-an-array) |
 | [2777-find-the-distinct-difference-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2777-find-the-distinct-difference-array) |
@@ -345,6 +346,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0461-hamming-distance) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2533-bitwise-xor-of-all-pairings) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -475,3 +477,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0561-array-partition) |
+# Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2533-bitwise-xor-of-all-pairings) |
