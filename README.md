@@ -107,6 +107,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2442-number-of-arithmetic-triplets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2442-number-of-arithmetic-triplets) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2561-number-of-distinct-averages](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2561-number-of-distinct-averages) |
+| [2621-find-xor-beauty-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2621-find-xor-beauty-of-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2639-separate-the-digits-in-an-array) |
 | [2777-find-the-distinct-difference-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2777-find-the-distinct-difference-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -231,6 +232,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2083-three-divisors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2383-add-two-integers) |
+| [2621-find-xor-beauty-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2621-find-xor-beauty-of-array) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2748-calculate-delayed-arrival-time) |
 | [2998-count-symmetric-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
@@ -351,6 +353,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0461-hamming-distance](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0461-hamming-distance) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2621-find-xor-beauty-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2621-find-xor-beauty-of-array) |
 # Divide and Conquer
 |  |
 | ------- |
