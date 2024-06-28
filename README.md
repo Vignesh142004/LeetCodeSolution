@@ -125,6 +125,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3206-find-common-elements-between-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 # Hash Table
 |  |
 | ------- |
@@ -369,6 +370,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2621-find-xor-beauty-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2621-find-xor-beauty-of-array) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 # Divide and Conquer
 |  |
 | ------- |
