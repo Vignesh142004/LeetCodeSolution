@@ -9,7 +9,7 @@ class Solution {
         {
             solve(open-1,close,s+"(",ans);
         }
-        if(close>0 && open<close)
+        if(close>0 && close>open)
         {
             solve(open,close-1,s+")",ans);
         }
