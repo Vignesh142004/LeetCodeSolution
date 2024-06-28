@@ -85,6 +85,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1505-create-target-array-in-the-given-order) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -347,6 +348,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0561-array-partition](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0561-array-partition) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -362,6 +364,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0371-sum-of-two-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0861-flipping-an-image) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -502,6 +505,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0561-array-partition) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 # Brainteaser
 |  |
