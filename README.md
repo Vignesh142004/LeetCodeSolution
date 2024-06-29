@@ -539,4 +539,20 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3227-find-missing-and-repeated-values) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
