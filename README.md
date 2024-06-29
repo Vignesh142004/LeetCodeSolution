@@ -526,6 +526,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -534,6 +535,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -555,4 +557,12 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
