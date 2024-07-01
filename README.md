@@ -531,6 +531,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -572,6 +573,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0022-generate-parentheses) |
+| [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -580,4 +582,12 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
