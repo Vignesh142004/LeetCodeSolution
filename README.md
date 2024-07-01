@@ -545,10 +545,12 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
+| [0832-binary-tree-pruning](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0832-binary-tree-pruning) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
+| [0832-binary-tree-pruning](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0832-binary-tree-pruning) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -557,6 +559,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
+| [0832-binary-tree-pruning](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0832-binary-tree-pruning) |
 ## Enumeration
 |  |
 | ------- |
