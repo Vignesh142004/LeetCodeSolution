@@ -528,6 +528,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
 | [1293-three-consecutive-odds](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1293-three-consecutive-odds) |
+| [2737-row-with-maximum-ones](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2737-row-with-maximum-ones) |
 | [3221-find-the-peaks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -543,6 +544,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Matrix
 |  |
 | ------- |
+| [2737-row-with-maximum-ones](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
