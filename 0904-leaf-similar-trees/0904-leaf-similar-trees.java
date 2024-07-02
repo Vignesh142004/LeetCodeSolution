@@ -24,7 +24,7 @@ class Solution {
         if (root1.left == null && root1.right==null) 
         {
             ans1.add(root1.val);   
-    }
+        }
     func1(root1.left);
     func1(root1.right);
     }
