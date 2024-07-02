@@ -531,6 +531,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0463-island-perimeter](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0463-island-perimeter) |
 | [1293-three-consecutive-odds](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2634-minimum-common-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2634-minimum-common-value) |
 | [2737-row-with-maximum-ones](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2737-row-with-maximum-ones) |
@@ -615,6 +616,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2331-intersection-of-multiple-arrays) |
 ## Two Pointers
 |  |
@@ -625,6 +627,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2634-minimum-common-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2634-minimum-common-value) |
 ## Counting
 |  |
