@@ -562,6 +562,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
 | [0832-binary-tree-pruning](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0904-leaf-similar-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -569,17 +570,20 @@ Here you can find the Solution for Various Leedcode problem
 | [0463-island-perimeter](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0463-island-perimeter) |
 | [0832-binary-tree-pruning](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0904-leaf-similar-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0463-island-perimeter) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
 | [0832-binary-tree-pruning](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0904-leaf-similar-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
