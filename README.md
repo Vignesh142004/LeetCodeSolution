@@ -610,6 +610,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0022-generate-parentheses) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
@@ -636,6 +637,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2634-minimum-common-value) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -672,4 +674,5 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0334-increasing-triplet-subsequence) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2816-lexicographically-smallest-palindrome) |
 <!---LeetCode Topics End-->
