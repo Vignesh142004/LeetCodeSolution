@@ -558,6 +558,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -611,6 +612,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0022-generate-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0022-generate-parentheses) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
@@ -675,4 +677,5 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0334-increasing-triplet-subsequence) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
 <!---LeetCode Topics End-->
