@@ -544,6 +544,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2159-two-out-of-three](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2159-two-out-of-three) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2486-most-frequent-even-element](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2486-most-frequent-even-element) |
 | [2551-apply-operations-to-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2634-minimum-common-value) |
 | [2737-row-with-maximum-ones](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2737-row-with-maximum-ones) |
@@ -565,6 +566,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2331-intersection-of-multiple-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2427-first-letter-to-appear-twice) |
+| [2486-most-frequent-even-element](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2486-most-frequent-even-element) |
 | [2634-minimum-common-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2634-minimum-common-value) |
 | [3034-points-that-intersect-with-cars](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3034-points-that-intersect-with-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3227-find-missing-and-repeated-values) |
@@ -690,6 +692,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2331-intersection-of-multiple-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2427-first-letter-to-appear-twice) |
+| [2486-most-frequent-even-element](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2486-most-frequent-even-element) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
