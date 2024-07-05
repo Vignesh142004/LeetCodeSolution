@@ -565,6 +565,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3227-find-missing-and-repeated-values) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
 | ------- |
@@ -621,6 +622,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2427-first-letter-to-appear-twice](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2427-first-letter-to-appear-twice) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
@@ -692,4 +694,5 @@ Here you can find the Solution for Various Leedcode problem
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
