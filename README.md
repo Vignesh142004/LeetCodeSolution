@@ -530,6 +530,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0334-increasing-triplet-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0463-island-perimeter) |
+| [0645-set-mismatch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0733-flood-fill) |
 | [1293-three-consecutive-odds](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1293-three-consecutive-odds) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -548,6 +549,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0645-set-mismatch) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -626,11 +628,13 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0645-set-mismatch) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2331-intersection-of-multiple-arrays) |
 ## Two Pointers
