@@ -13,7 +13,7 @@ class Solution {
                 hm.put(s.charAt(i),1);
             }
         }
-        return s.charAt(0);
+        return '0';
         
     }
 }
