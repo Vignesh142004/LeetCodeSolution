@@ -545,6 +545,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2159-two-out-of-three](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2159-two-out-of-three) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2486-most-frequent-even-element](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2486-most-frequent-even-element) |
 | [2551-apply-operations-to-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2634-minimum-common-value) |
@@ -648,6 +649,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2427-first-letter-to-appear-twice) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2886-faulty-keyboard](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2886-faulty-keyboard) |
 | [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
@@ -744,6 +746,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Prefix Sum
 |  |
 | ------- |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3034-points-that-intersect-with-cars](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3034-points-that-intersect-with-cars) |
 ## Stack
 |  |
