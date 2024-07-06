@@ -20,8 +20,13 @@ class Solution {
             count++;
             }
         }
-        if(nums[n-1]==0||nums[n-2]==0)
-        return -1;
+        for(int a:nums)
+        {
+            if(a==0)
+            {
+               return -1;
+            }
+        }
         return count;
         
     }
