@@ -5,15 +5,9 @@ class Solution {
         int count=0;
         for(int i=0;i<n;i++)
         {
-            if(nums[i]==0 && val%2==0)
-            {
-                val++;
+            if(nums[i]==val){
                 count++;
-            }
-            else if(nums[i]==1 && val%2==1)
-            {
-                val++;
-                count++;
+                val=1-val;
             }
         }
         return count;
