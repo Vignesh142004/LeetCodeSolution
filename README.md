@@ -558,6 +558,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3330-modify-the-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3330-modify-the-matrix) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -662,6 +663,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0022-generate-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -741,6 +743,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
