@@ -557,6 +557,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3227-find-missing-and-repeated-values](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3330-modify-the-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3330-modify-the-matrix) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -672,6 +673,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0645-set-mismatch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0645-set-mismatch) |
 | [2159-two-out-of-three](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2159-two-out-of-three) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2427-first-letter-to-appear-twice) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
 | ------- |
@@ -748,6 +750,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3034-points-that-intersect-with-cars](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3034-points-that-intersect-with-cars) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
 | ------- |
@@ -760,4 +763,12 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
