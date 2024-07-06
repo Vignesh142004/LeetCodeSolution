@@ -595,6 +595,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0832-binary-tree-pruning](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0904-leaf-similar-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -602,6 +603,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0463-island-perimeter](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0733-flood-fill) |
 | [0832-binary-tree-pruning](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0832-binary-tree-pruning) |
@@ -618,6 +620,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0832-binary-tree-pruning](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0904-leaf-similar-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -745,4 +748,8 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0496-next-greater-element-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
