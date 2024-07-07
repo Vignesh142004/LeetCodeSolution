@@ -650,6 +650,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0022-generate-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0648-replace-words](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0648-replace-words) |
 | [0953-reverse-only-letters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0953-reverse-only-letters) |
@@ -699,6 +700,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0953-reverse-only-letters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0953-reverse-only-letters) |
 | [2551-apply-operations-to-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2551-apply-operations-to-an-array) |
