@@ -546,6 +546,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2159-two-out-of-three](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2159-two-out-of-three) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -592,6 +593,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1642-water-bottles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1642-water-bottles) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
@@ -741,6 +743,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1642-water-bottles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1642-water-bottles) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2698-find-the-array-concatenation-value) |
 | [2886-faulty-keyboard](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2886-faulty-keyboard) |
@@ -811,6 +814,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3199-distribute-candies-among-children-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3199-distribute-candies-among-children-i) |
 ## Linked List
 |  |
