@@ -679,6 +679,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -747,6 +748,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2551-apply-operations-to-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2698-find-the-array-concatenation-value) |
 | [2886-faulty-keyboard](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2886-faulty-keyboard) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Trie
 |  |
 | ------- |
