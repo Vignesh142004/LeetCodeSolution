@@ -547,6 +547,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2159-two-out-of-three](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2159-two-out-of-three) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2331-intersection-of-multiple-arrays) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2486-most-frequent-even-element](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2486-most-frequent-even-element) |
@@ -576,6 +577,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2159-two-out-of-three](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2159-two-out-of-three) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2331-intersection-of-multiple-arrays) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2486-most-frequent-even-element) |
@@ -590,6 +592,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1642-water-bottles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1642-water-bottles) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
 | [3199-distribute-candies-among-children-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3199-distribute-candies-among-children-i) |
@@ -644,6 +647,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [3199-distribute-candies-among-children-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3199-distribute-candies-among-children-i) |
 | [3221-find-the-peaks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3221-find-the-peaks) |
 ## Number Theory
@@ -812,4 +816,8 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2332-count-lattice-points-inside-a-circle) |
 <!---LeetCode Topics End-->
