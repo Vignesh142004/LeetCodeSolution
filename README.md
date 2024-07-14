@@ -690,6 +690,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1651-shuffle-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1651-shuffle-string) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1954-replace-all-digits-with-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1954-replace-all-digits-with-characters) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2427-first-letter-to-appear-twice) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
