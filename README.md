@@ -544,6 +544,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1651-shuffle-string) |
@@ -728,6 +729,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0645-set-mismatch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1961-maximum-ice-cream-bars](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -743,6 +745,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0345-reverse-vowels-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0953-reverse-only-letters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0953-reverse-only-letters) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2634-minimum-common-value) |
@@ -755,6 +758,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2634-minimum-common-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2634-minimum-common-value) |
 ## Counting
