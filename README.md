@@ -565,6 +565,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2486-most-frequent-even-element](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -768,6 +769,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2634-minimum-common-value) |
 ## Counting
 |  |
@@ -776,6 +778,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2486-most-frequent-even-element) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
