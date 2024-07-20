@@ -571,6 +571,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2698-find-the-array-concatenation-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2737-row-with-maximum-ones](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2737-row-with-maximum-ones) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3034-points-that-intersect-with-cars](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3034-points-that-intersect-with-cars) |
 | [3188-find-champion-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3188-find-champion-i) |
 | [3221-find-the-peaks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3221-find-the-peaks) |
@@ -681,6 +682,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3199-distribute-candies-among-children-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3199-distribute-candies-among-children-i) |
 | [3221-find-the-peaks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3221-find-the-peaks) |
 ## Number Theory
