@@ -526,6 +526,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0283-move-zeroes) |
@@ -584,6 +585,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0496-next-greater-element-i) |
