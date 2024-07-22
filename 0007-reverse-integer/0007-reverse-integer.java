@@ -19,6 +19,10 @@ class Solution {
             rev=(rev*10)+rem;
             x=x/10;  
         }
-         return neg?-rev:rev;  
+        if(neg)
+        {
+            return -rev;
+        }
+        return rev;  
     }
 }
