@@ -3,7 +3,8 @@ class Solution {
         int n = s.length();
         Stack<Character> st = new Stack<>();
         for (int i = 0; i < n; i++) {
-            if ((s.charAt(i) == ')' || s.charAt(i) == '}' || s.charAt(i) == ']') && st.isEmpty()) {
+            if ((s.charAt(i) == ')' || s.charAt(i) == '}' || s.charAt(i) == ']') && st.isEmpty()) 
+            {
                 return false;
             }
             if (s.charAt(i) == '(' || s.charAt(i) == '{' || s.charAt(i) == '[') {
