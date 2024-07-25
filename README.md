@@ -614,6 +614,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
 | [0728-self-dividing-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0728-self-dividing-numbers) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -783,6 +784,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
