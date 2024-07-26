@@ -530,6 +530,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0011-container-with-most-water](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0283-move-zeroes) |
@@ -734,6 +735,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -916,6 +918,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0948-sort-an-array) |
 ## Merge Sort
