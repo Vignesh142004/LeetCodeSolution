@@ -621,6 +621,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0007-reverse-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0728-self-dividing-numbers) |
