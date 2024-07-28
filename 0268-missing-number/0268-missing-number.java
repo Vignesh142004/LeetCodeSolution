@@ -8,8 +8,7 @@ class Solution {
             if(j==nums[i])
             {
                 j++;
-                continue;
-                
+                continue;  
             }
         }
         return j;
