@@ -582,6 +582,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2737-row-with-maximum-ones](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2737-row-with-maximum-ones) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2881-split-strings-by-separator](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
 | [3034-points-that-intersect-with-cars](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3034-points-that-intersect-with-cars) |
 | [3188-find-champion-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3188-find-champion-i) |
 | [3221-find-the-peaks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3221-find-the-peaks) |
@@ -734,6 +735,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2502-sort-the-people](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2502-sort-the-people) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2881-split-strings-by-separator](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2886-faulty-keyboard) |
 | [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
