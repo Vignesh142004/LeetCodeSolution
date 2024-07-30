@@ -572,6 +572,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2331-intersection-of-multiple-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2486-most-frequent-even-element](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2502-sort-the-people) |
@@ -614,6 +615,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2427-first-letter-to-appear-twice) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2634-minimum-common-value) |
@@ -792,6 +794,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2331-intersection-of-multiple-arrays) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -847,6 +850,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2698-find-the-array-concatenation-value) |
 | [2886-faulty-keyboard](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2886-faulty-keyboard) |
@@ -878,6 +882,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1961-maximum-ice-cream-bars](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -889,6 +894,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0948-sort-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0948-sort-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Prefix Sum
 |  |
 | ------- |
