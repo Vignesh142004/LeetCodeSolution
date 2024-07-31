@@ -21,8 +21,9 @@ class Solution {
             return;
         }
         func(root.left,arr);
-        func(root.right,arr);
         arr.add(root.val);
+        func(root.right,arr);
+        
         
     }
     public int rangeSumBST(TreeNode root, int low, int high) {
