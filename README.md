@@ -559,6 +559,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1524-string-matching-in-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1651-shuffle-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1651-shuffle-string) |
@@ -613,6 +614,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1256-rank-transform-of-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2159-two-out-of-three](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2159-two-out-of-three) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2332-count-lattice-points-inside-a-circle) |
@@ -796,6 +798,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1256-rank-transform-of-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1961-maximum-ice-cream-bars](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1961-maximum-ice-cream-bars) |
