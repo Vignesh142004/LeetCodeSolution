@@ -538,6 +538,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0283-move-zeroes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0566-reshape-the-matrix) |
@@ -793,6 +794,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1256-rank-transform-of-an-array) |
