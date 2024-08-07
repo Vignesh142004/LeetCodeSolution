@@ -682,6 +682,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0832-binary-tree-pruning) |
@@ -692,6 +693,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0463-island-perimeter](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0463-island-perimeter) |
@@ -706,6 +708,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0733-flood-fill) |
@@ -716,6 +719,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0832-binary-tree-pruning) |
