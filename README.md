@@ -640,6 +640,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0172-factorial-trailing-zeroes) |
@@ -747,6 +748,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0020-valid-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
@@ -880,6 +882,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0043-multiply-strings) |
 | [0566-reshape-the-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
