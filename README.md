@@ -684,6 +684,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -696,6 +697,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0207-course-schedule) |
@@ -723,6 +725,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -961,6 +964,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0975-range-sum-of-bst) |
