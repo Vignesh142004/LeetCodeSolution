@@ -543,6 +543,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0463-island-perimeter](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0648-replace-words) |
 | [0733-flood-fill](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0733-flood-fill) |
@@ -615,6 +616,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0648-replace-words) |
 | [1256-rank-transform-of-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1256-rank-transform-of-an-array) |
