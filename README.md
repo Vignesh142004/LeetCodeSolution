@@ -548,6 +548,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0733-flood-fill](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0777-toeplitz-matrix) |
+| [0841-shortest-distance-to-a-character](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
 | [0898-transpose-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0948-sort-an-array) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -759,6 +760,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0345-reverse-vowels-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0648-replace-words](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0648-replace-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0953-reverse-only-letters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1524-string-matching-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1524-string-matching-in-an-array) |
@@ -850,6 +852,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0283-move-zeroes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0953-reverse-only-letters) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1486-find-the-distance-value-between-two-arrays) |
