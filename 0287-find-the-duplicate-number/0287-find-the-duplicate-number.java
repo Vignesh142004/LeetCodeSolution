@@ -1,7 +1,6 @@
 class Solution {
     public int findDuplicate(int[] nums) {
        int n=nums.length;
-       //Arrays.sort(nums);
        HashMap<Integer,Integer> hm=new HashMap<>();
        for(int i=0;i<n;i++)
        {
