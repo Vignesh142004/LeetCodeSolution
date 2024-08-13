@@ -662,6 +662,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2571-find-the-pivot-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2619-categorize-box-according-to-criteria) |
+| [2630-alternating-digit-sum](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2630-alternating-digit-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
 | [3199-distribute-candies-among-children-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3199-distribute-candies-among-children-i) |
