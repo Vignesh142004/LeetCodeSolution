@@ -4,7 +4,6 @@ class Solution {
         int m=nums2.length;
         int i=0,j=0,k=0;
         int res[]=new int[n+m];
-        //double mid;
         while(i<n&&j<m)
         {
             if(nums1[i]<nums2[j])
@@ -32,7 +31,7 @@ class Solution {
              int mid1=res[(len/2)];
              int mid2=res[(len/2)-1];
              return (mid1+mid2)/2.0;
-        }
+        } 
         else
         {
             int mid=res[(len/2)];
