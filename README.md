@@ -552,6 +552,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0747-min-cost-climbing-stairs](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0777-toeplitz-matrix) |
 | [0841-shortest-distance-to-a-character](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
+| [0890-lemonade-change](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0948-sort-an-array) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -944,6 +945,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0334-increasing-triplet-subsequence) |
+| [0890-lemonade-change](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0890-lemonade-change) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1961-maximum-ice-cream-bars](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1988-minimize-maximum-pair-sum-in-array) |
