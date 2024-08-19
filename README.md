@@ -578,6 +578,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1835-decode-xored-permutation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1835-decode-xored-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2159-two-out-of-three](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -971,6 +972,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0724-find-pivot-index](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0724-find-pivot-index) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2102-find-the-middle-index-in-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2571-find-the-pivot-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2571-find-the-pivot-integer) |
 | [3034-points-that-intersect-with-cars](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3034-points-that-intersect-with-cars) |
