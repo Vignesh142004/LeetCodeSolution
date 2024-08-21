@@ -38,7 +38,6 @@ class Solution {
             nums[minidx]=nums[i];
             nums[i]=temp;
         }
-        
         for(int i=0;i<n;i++)
         {
 
