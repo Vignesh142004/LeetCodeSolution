@@ -591,6 +591,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2447-merge-similar-items](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2447-merge-similar-items) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2486-most-frequent-even-element](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2502-sort-the-people) |
@@ -643,6 +644,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2447-merge-similar-items](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2447-merge-similar-items) |
 | [2486-most-frequent-even-element](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2634-minimum-common-value) |
@@ -863,6 +865,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2447-merge-similar-items](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -1098,4 +1101,8 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0909-stone-game) |
+## Ordered Set
+|  |
+| ------- |
+| [2447-merge-similar-items](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2447-merge-similar-items) |
 <!---LeetCode Topics End-->
