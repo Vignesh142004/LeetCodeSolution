@@ -611,6 +611,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3330-modify-the-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3330-modify-the-matrix) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -834,6 +835,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1835-decode-xored-permutation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1835-decode-xored-permutation) |
 | [2159-two-out-of-three](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2159-two-out-of-three) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2427-first-letter-to-appear-twice) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
@@ -1013,6 +1015,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Combinatorics
 |  |
