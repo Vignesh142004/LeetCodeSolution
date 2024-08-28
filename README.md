@@ -666,6 +666,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0172-factorial-trailing-zeroes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
+| [0492-construct-the-rectangle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0728-self-dividing-numbers) |
 | [0909-stone-game](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1013-fibonacci-number) |
