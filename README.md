@@ -1109,4 +1109,8 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2447-merge-similar-items) |
+## Database
+|  |
+| ------- |
+| [0626-exchange-seats](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
