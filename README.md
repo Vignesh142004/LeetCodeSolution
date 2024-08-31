@@ -660,6 +660,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0069-sqrtx) |
@@ -831,6 +832,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0029-divide-two-integers) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
