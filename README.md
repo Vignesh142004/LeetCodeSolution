@@ -620,6 +620,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -657,6 +658,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3412-permutation-difference-between-two-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -1055,6 +1057,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Geometry
 |  |
 | ------- |
