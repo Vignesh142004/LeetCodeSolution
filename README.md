@@ -793,6 +793,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0953-reverse-only-letters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0953-reverse-only-letters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1524-string-matching-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1524-string-matching-in-an-array) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1651-shuffle-string) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1036,6 +1037,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Combinatorics
