@@ -534,6 +534,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0035-search-insert-position](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
@@ -839,10 +840,12 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0078-subsets) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
