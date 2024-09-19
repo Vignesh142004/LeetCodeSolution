@@ -866,6 +866,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -900,6 +901,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
@@ -1068,6 +1070,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0237-delete-node-in-a-linked-list) |
@@ -1093,11 +1096,13 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
