@@ -548,6 +548,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0414-third-maximum-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0645-set-mismatch) |
@@ -875,6 +876,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1256-rank-transform-of-an-array) |
@@ -1011,6 +1013,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0948-sort-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
