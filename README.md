@@ -825,6 +825,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3540-hash-divided-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3540-hash-divided-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -975,6 +976,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3540-hash-divided-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3540-hash-divided-string) |
 ## Trie
 |  |
 | ------- |
