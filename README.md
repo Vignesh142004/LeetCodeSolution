@@ -872,6 +872,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2427-first-letter-to-appear-twice](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2427-first-letter-to-appear-twice) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Sorting
 |  |
 | ------- |
