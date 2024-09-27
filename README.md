@@ -626,6 +626,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3463-alternating-groups-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1073,6 +1074,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3463-alternating-groups-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Combinatorics
 |  |
