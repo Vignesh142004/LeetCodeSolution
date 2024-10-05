@@ -682,6 +682,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0012-integer-to-roman](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0172-factorial-trailing-zeroes) |
@@ -1155,6 +1156,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1013-fibonacci-number) |
 ## Shortest Path
