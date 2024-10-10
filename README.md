@@ -711,6 +711,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3227-find-missing-and-repeated-values](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3568-find-the-key-of-the-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3568-find-the-key-of-the-numbers) |
 ## Matrix
 |  |
 | ------- |
