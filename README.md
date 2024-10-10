@@ -1197,6 +1197,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0178-rank-scores) |
 | [0626-exchange-seats](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0626-exchange-seats) |
 ## Union Find
 |  |
