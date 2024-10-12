@@ -549,6 +549,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0287-find-the-duplicate-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0496-next-greater-element-i) |
@@ -717,6 +718,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0733-flood-fill) |
@@ -897,6 +899,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0242-valid-anagram](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0506-relative-ranks) |
@@ -966,6 +969,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -1049,6 +1053,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0948-sort-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
