@@ -597,6 +597,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2159-two-out-of-three](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2165-plates-between-candles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2165-plates-between-candles) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2195-time-needed-to-buy-tickets) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -834,6 +835,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2165-plates-between-candles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2165-plates-between-candles) |
 | [2365-percentage-of-letter-in-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2365-percentage-of-letter-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2427-first-letter-to-appear-twice) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -979,6 +981,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2165-plates-between-candles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2165-plates-between-candles) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2634-minimum-common-value) |
 ## Counting
@@ -1070,6 +1073,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2102-find-the-middle-index-in-array) |
+| [2165-plates-between-candles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2165-plates-between-candles) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2571-find-the-pivot-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2571-find-the-pivot-integer) |
 | [3034-points-that-intersect-with-cars](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3034-points-that-intersect-with-cars) |
