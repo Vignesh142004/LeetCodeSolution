@@ -746,6 +746,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0832-binary-tree-pruning](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0975-range-sum-of-bst) |
+| [1254-deepest-leaves-sum](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -764,6 +765,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0871-keys-and-rooms](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0975-range-sum-of-bst) |
+| [1254-deepest-leaves-sum](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -776,6 +778,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0733-flood-fill](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0871-keys-and-rooms) |
+| [1254-deepest-leaves-sum](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1254-deepest-leaves-sum) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -788,6 +791,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0832-binary-tree-pruning](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0975-range-sum-of-bst) |
+| [1254-deepest-leaves-sum](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Enumeration
