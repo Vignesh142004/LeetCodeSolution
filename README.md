@@ -630,6 +630,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3330-modify-the-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3330-modify-the-matrix) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3373-maximum-prime-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3373-maximum-prime-difference) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -714,6 +715,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3199-distribute-candies-among-children-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3199-distribute-candies-among-children-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3373-maximum-prime-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3373-maximum-prime-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3568-find-the-key-of-the-numbers) |
 ## Matrix
@@ -807,6 +809,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3373-maximum-prime-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3373-maximum-prime-difference) |
 ## String
 |  |
 | ------- |
