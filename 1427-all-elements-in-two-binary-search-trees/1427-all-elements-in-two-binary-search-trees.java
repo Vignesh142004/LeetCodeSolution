@@ -37,7 +37,7 @@ class Solution {
     public List<Integer> getAllElements(TreeNode root1, TreeNode root2) {
         List<Integer> arr=new ArrayList<>();
         func1(root1,arr);
-        func2(root2,arr);
+        func1(root2,arr);
         Collections.sort(arr);
         return arr;
 
