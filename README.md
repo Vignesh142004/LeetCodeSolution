@@ -534,6 +534,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0033-search-in-rotated-sorted-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0075-sort-colors) |
@@ -644,6 +645,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0001-two-sum](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -823,6 +825,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0022-generate-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0242-valid-anagram) |
@@ -907,6 +910,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0164-maximum-gap) |
