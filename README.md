@@ -747,6 +747,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0904-leaf-similar-trees) |
@@ -794,6 +795,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0904-leaf-similar-trees) |
@@ -1114,6 +1116,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1427-all-elements-in-two-binary-search-trees) |
