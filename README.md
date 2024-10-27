@@ -888,6 +888,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0022-generate-parentheses) |
+| [0052-n-queens-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
