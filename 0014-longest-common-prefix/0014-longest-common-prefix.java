@@ -11,7 +11,8 @@ class Solution {
             {
                 i++;  
             }
-            else{
+            else
+            {
             break;
             }
         }
