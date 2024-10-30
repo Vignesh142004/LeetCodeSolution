@@ -824,6 +824,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0032-longest-valid-parentheses) |
@@ -1041,6 +1042,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0386-lexicographical-numbers) |
 | [0648-replace-words](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0648-replace-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
