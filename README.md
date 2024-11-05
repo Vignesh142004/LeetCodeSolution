@@ -863,6 +863,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2881-split-strings-by-separator](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2886-faulty-keyboard) |
 | [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
