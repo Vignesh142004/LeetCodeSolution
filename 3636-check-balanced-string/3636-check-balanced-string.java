@@ -7,11 +7,11 @@ class Solution {
         {
             if(i%2==0)
             {
-                even=even+Integer.parseInt(s.charAt(i)+"");
+                even=even+s.charAt(i)-'0';
             }
             else
             {
-                odd=odd+Integer.parseInt(s.charAt(i)+"");
+                odd=odd+s.charAt(i)-'0';
             }
         }
         return even==odd;
