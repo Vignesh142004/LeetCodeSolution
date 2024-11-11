@@ -749,6 +749,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0101-symmetric-tree) |
@@ -765,6 +766,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0101-symmetric-tree) |
@@ -797,6 +799,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0101-symmetric-tree) |
@@ -1117,6 +1120,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0020-valid-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1072-next-greater-node-in-linked-list) |
