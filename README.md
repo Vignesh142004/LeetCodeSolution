@@ -656,6 +656,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0128-longest-consecutive-sequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -706,6 +707,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0062-unique-paths](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0390-elimination-game](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0390-elimination-game) |
@@ -987,6 +989,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0141-linked-list-cycle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
