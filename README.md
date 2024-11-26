@@ -1224,6 +1224,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0871-keys-and-rooms](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0871-keys-and-rooms) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [3189-find-champion-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3189-find-champion-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
