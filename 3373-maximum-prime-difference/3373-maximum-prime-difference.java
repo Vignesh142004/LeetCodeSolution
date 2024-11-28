@@ -26,7 +26,6 @@ class Solution {
         }
         int ans=0;
         Collections.sort(arr);
-        System.out.println(arr);
         if(arr.size()==1)
         {
             return 0;
