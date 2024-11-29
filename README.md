@@ -542,6 +542,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0075-sort-colors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0164-maximum-gap) |
@@ -908,6 +909,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0053-maximum-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0338-counting-bits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0516-longest-palindromic-subsequence) |
