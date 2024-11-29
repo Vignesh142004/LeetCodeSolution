@@ -6,10 +6,11 @@ class Solution {
        {
          last=last+'a';
        }
-       String ans="";
-       ans=s+"ma";
-       ans=ans+last;
-       return ans;
+       StringBuilder ans=new StringBuilder(" ");
+       ans.append(s);
+       ans.append("ma");
+       ans.append(last);
+       return ans.toString();
     }
     static String cons(String s,int n)
     {
@@ -19,11 +20,12 @@ class Solution {
         {
             last=last+'a';
         }
-        String ans=s.substring(1,len);
-        ans=ans+s.charAt(0);
-        ans=ans+"ma";
-        ans=ans+last;
-        return ans;
+        StringBuilder ans=new StringBuilder(" ");
+        ans.append(s.substring(1));
+        ans.append(s.charAt(0));
+        ans.append("ma");
+        ans.append(last);
+        return ans.toString();
     }
     public String toGoatLatin(String se) {
         String str[]=se.split(" ");
@@ -43,7 +45,7 @@ class Solution {
         String fin="";
         for(int i=0;i<str.length;i++)
         {
-            fin=fin+str[i]+" ";
+            fin=fin+str[i];
         }
         return fin.trim();
 
