@@ -873,6 +873,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1156-occurrences-after-bigram](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1156-occurrences-after-bigram) |
 | [1250-longest-common-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1524-string-matching-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1524-string-matching-in-an-array) |
