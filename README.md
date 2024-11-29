@@ -869,6 +869,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0648-replace-words](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
+| [0851-goat-latin](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0851-goat-latin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
