@@ -541,6 +541,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0054-spiral-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0128-longest-consecutive-sequence) |
@@ -965,6 +966,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0015-3sum](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0179-largest-number) |
@@ -1011,6 +1013,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0075-sort-colors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0160-intersection-of-two-linked-lists) |
