@@ -29,9 +29,6 @@ class Solution {
         {
             nums1[h]=result[h];
         }
-        for(int h=0;h<m+n;h++)
-        {
-            System.out.print(nums1[h]+" ");
-        }
+        
     }
 }
