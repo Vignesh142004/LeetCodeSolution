@@ -627,6 +627,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2634-minimum-common-value) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2698-find-the-array-concatenation-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2727-number-of-senior-citizens) |
@@ -1098,6 +1099,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2551-apply-operations-to-an-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2698-find-the-array-concatenation-value](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2698-find-the-array-concatenation-value) |
 | [2886-faulty-keyboard](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2886-faulty-keyboard) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -1157,6 +1159,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0948-sort-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0948-sort-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Prefix Sum
 |  |
 | ------- |
