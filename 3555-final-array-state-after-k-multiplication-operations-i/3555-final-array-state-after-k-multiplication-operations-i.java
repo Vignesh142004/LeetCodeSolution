@@ -1,7 +1,7 @@
 class Solution {
     public int[] getFinalState(int[] arr, int k, int mul) {
         int n=arr.length;
-        while(k>0)
+        while(k!=0)
         {
             int min=Integer.MAX_VALUE;
             int idx=-1;
