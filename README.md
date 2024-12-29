@@ -1063,6 +1063,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0287-find-the-duplicate-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0792-binary-search](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0792-binary-search) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -1344,4 +1345,8 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0347-top-k-frequent-elements) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
