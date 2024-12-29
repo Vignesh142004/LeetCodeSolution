@@ -724,6 +724,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0202-happy-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0390-elimination-game) |
 | [0492-construct-the-rectangle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0728-self-dividing-numbers) |
@@ -1059,6 +1060,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0275-h-index-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0792-binary-search](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0792-binary-search) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
