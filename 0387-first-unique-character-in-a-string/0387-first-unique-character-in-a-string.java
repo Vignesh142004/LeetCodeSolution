@@ -1,7 +1,7 @@
 class Solution {
     public int firstUniqChar(String s) {
-        HashMap<Character,Integer> hm=new HashMap<>();
         int n=s.length();
+        HashMap<Character,Integer> hm=new HashMap<>();
         for(int i=0;i<n;i++)
         {
             if(hm.containsKey(s.charAt(i)))
@@ -13,30 +13,14 @@ class Solution {
                 hm.put(s.charAt(i),1);
             }
         }
-        List<Character> arr=new ArrayList<>();
-        for(Map.Entry<Character,Integer> m:hm.entrySet())
+        for(int i=0;i<n;i++)
         {
-            if(m.getValue()==1)
+            if(hm.get(s.charAt(i))==1)
             {
-                arr.add(m.getKey());
+                return i;
             }
         }
-        List<Integer> ans=new ArrayList<>();
-        for(int i=0;i<arr.size();i++)
-        {
-            ans.add(s.indexOf(arr.get(i)));
-        }
-        int min=Integer.MAX_VALUE;
-        if(arr.size()==0)
-        {
-            return -1;
-        }
-        for(int i=0;i<ans.size();i++)
-        {
-            min=Math.min(min,ans.get(i));
-        }
-        return min;
-       
+        return -1;
         
     }
 }
