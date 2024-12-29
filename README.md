@@ -671,6 +671,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0575-distribute-candies) |
@@ -873,6 +874,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0179-largest-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0516-longest-palindromic-subsequence) |
 | [0648-replace-words](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0648-replace-words) |
@@ -1079,6 +1081,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -1211,6 +1214,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2195-time-needed-to-buy-tickets) |
