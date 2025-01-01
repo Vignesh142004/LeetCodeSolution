@@ -888,6 +888,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1250-longest-common-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1524-string-matching-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1524-string-matching-in-an-array) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1651-shuffle-string) |
@@ -1177,6 +1178,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0724-find-pivot-index](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0724-find-pivot-index) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2102-find-the-middle-index-in-array) |
 | [2165-plates-between-candles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2165-plates-between-candles) |
