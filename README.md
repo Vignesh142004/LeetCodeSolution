@@ -654,6 +654,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
@@ -1234,6 +1235,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3463-alternating-groups-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Combinatorics
 |  |
