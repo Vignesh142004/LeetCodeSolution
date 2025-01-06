@@ -603,6 +603,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1835-decode-xored-permutation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1835-decode-xored-permutation) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1961-maximum-ice-cream-bars](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2102-find-the-middle-index-in-array) |
@@ -901,6 +902,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1954-replace-all-digits-with-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1954-replace-all-digits-with-characters) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1189,6 +1191,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2102-find-the-middle-index-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2102-find-the-middle-index-in-array) |
 | [2165-plates-between-candles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2165-plates-between-candles) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
