@@ -574,6 +574,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0777-toeplitz-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0898-transpose-matrix) |
 | [0909-stone-game](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0909-stone-game) |
@@ -1082,6 +1083,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0374-guess-number-higher-or-lower](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0792-binary-search](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
