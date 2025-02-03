@@ -650,6 +650,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3330-modify-the-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3330-modify-the-matrix) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3373-maximum-prime-difference) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3397-find-the-integer-added-to-array-i) |
