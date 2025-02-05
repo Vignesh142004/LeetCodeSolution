@@ -4,6 +4,10 @@ class Solution {
         int mismatch=0;
         int cnt=0;
         HashMap<Character,Integer> hm=new HashMap<>();
+        if(s1.equals(s2))
+        {
+            return true;
+        }
         for(char ch:s1.toCharArray())
         {
             if(hm.containsKey(ch))
