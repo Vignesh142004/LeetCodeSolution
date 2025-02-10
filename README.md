@@ -934,6 +934,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3447-clear-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3540-hash-divided-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3540-hash-divided-string) |
@@ -1141,6 +1142,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2886-faulty-keyboard](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2886-faulty-keyboard) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3447-clear-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3540-hash-divided-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1226,6 +1228,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1072-next-greater-node-in-linked-list) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3447-clear-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
