@@ -626,6 +626,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2447-merge-similar-items) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2476-check-distances-between-same-letters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2476-check-distances-between-same-letters) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2486-most-frequent-even-element) |
@@ -705,6 +706,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2427-first-letter-to-appear-twice](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2447-merge-similar-items) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2476-check-distances-between-same-letters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2476-check-distances-between-same-letters) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2486-most-frequent-even-element) |
@@ -1033,6 +1035,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2331-intersection-of-multiple-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2447-merge-similar-items) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -1202,6 +1205,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0948-sort-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0948-sort-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
