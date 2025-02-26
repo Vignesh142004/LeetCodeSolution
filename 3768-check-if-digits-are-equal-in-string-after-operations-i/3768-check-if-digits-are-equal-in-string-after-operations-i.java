@@ -8,7 +8,7 @@ class Solution {
             int a=Integer.parseInt(s.charAt(i)+"");
             int b=Integer.parseInt(s.charAt(i+1)+"");
             int c=(a+b)%10;
-            System.out.println(c);
+            //System.out.println(c);
             s1.append(c);
         }
         if(s1.length()==2 && s1.charAt(0)==s1.charAt(1))
