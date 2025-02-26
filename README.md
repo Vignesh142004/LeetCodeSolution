@@ -769,6 +769,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3568-find-the-key-of-the-numbers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -875,6 +876,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3373-maximum-prime-difference) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
 | ------- |
@@ -945,6 +947,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3636-check-balanced-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3636-check-balanced-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1154,6 +1157,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3540-hash-divided-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -1280,6 +1284,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0062-unique-paths](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3199-distribute-candies-among-children-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3199-distribute-candies-among-children-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
 |  |
 | ------- |
