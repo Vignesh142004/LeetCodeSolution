@@ -566,6 +566,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0496-next-greater-element-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0645-set-mismatch) |
@@ -1023,6 +1024,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0645-set-mismatch) |
 | [0917-boats-to-save-people](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0948-sort-an-array) |
@@ -1187,6 +1189,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0011-container-with-most-water](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0334-increasing-triplet-subsequence) |
+| [0561-array-partition](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0890-lemonade-change) |
@@ -1352,6 +1355,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0948-sort-an-array) |
 ## Recursion
 |  |
