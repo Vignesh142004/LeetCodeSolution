@@ -536,6 +536,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0053-maximum-subarray) |
@@ -957,6 +958,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0072-edit-distance) |
@@ -1059,6 +1061,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -1243,6 +1246,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0496-next-greater-element-i) |
@@ -1254,6 +1258,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0496-next-greater-element-i) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1072-next-greater-node-in-linked-list) |
 ## Binary Search Tree
