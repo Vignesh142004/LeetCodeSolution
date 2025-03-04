@@ -756,6 +756,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1642-water-bottles) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2324-find-triangular-sum-of-an-array) |
