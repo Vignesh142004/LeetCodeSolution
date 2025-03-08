@@ -558,6 +558,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0275-h-index-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -966,6 +967,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0072-edit-distance](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0338-counting-bits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0583-delete-operation-for-two-strings) |
@@ -1109,6 +1111,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0374-guess-number-higher-or-lower) |
