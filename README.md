@@ -672,6 +672,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -731,6 +732,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
