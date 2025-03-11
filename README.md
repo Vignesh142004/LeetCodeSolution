@@ -574,6 +574,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0575-distribute-candies](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0648-replace-words) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0747-min-cost-climbing-stairs) |
