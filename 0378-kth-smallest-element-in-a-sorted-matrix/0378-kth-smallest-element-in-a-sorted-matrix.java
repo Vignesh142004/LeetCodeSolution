@@ -12,7 +12,7 @@ class Solution {
             }
         }
         Collections.sort(arr);
-        System.out.println(arr);
+        //System.out.println(arr);
         return arr.get(k-1);
         
         
