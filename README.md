@@ -781,6 +781,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3568-find-the-key-of-the-numbers) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
@@ -884,6 +885,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3199-distribute-candies-among-children-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3199-distribute-candies-among-children-i) |
 | [3221-find-the-peaks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3221-find-the-peaks) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
