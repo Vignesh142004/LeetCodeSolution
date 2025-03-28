@@ -1022,6 +1022,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0693-binary-number-with-alternating-bits) |
 | [0899-binary-gap](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0899-binary-gap) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1786-count-the-number-of-consistent-strings) |
