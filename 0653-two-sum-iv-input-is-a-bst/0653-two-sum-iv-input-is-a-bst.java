@@ -27,17 +27,21 @@ class Solution {
     public boolean findTarget(TreeNode root, int k) {
         List<Integer> arr=new ArrayList<>();
         func(root,arr);
-        for(int i=0;i<arr.size();i++)
+        HashSet<Integer> hs=new HashSet<>();
+        for(int a:arr)
         {
-            for(int j=i+1;j<arr.size();j++)
+            int targer=k-a;
+            if(hs.contains(targer))
             {
-                if(arr.get(i)+arr.get(j)==k)
-                {
-                    return true;
-                }
+                return true;
+            }
+            else
+            {
+                hs.add(a);
             }
         }
         return false;
+        
         
     }
 }
