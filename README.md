@@ -652,6 +652,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2876-number-of-employees-who-met-the-target](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
 | [3034-points-that-intersect-with-cars](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3034-points-that-intersect-with-cars) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3188-find-champion-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3188-find-champion-i) |
