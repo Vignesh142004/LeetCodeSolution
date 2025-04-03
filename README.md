@@ -976,6 +976,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3636-check-balanced-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3811-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1203,6 +1204,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3790-fruits-into-baskets-ii) |
+| [3811-reverse-degree-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3811-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
