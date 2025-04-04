@@ -677,6 +677,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3778-transform-array-by-parity](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3790-fruits-into-baskets-ii) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Hash Table
@@ -1083,6 +1084,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3778-transform-array-by-parity](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1175,6 +1177,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3778-transform-array-by-parity](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
