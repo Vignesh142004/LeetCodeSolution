@@ -788,6 +788,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3568-find-the-key-of-the-numbers) |
+| [3625-stone-removal-game](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1206,6 +1207,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3540-hash-divided-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3625-stone-removal-game](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3625-stone-removal-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3811-reverse-degree-of-a-string) |
