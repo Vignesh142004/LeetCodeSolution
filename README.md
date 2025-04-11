@@ -783,6 +783,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2619-categorize-box-according-to-criteria](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2619-categorize-box-according-to-criteria) |
 | [2630-alternating-digit-sum](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2630-alternating-digit-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3055-maximum-odd-binary-number) |
 | [3199-distribute-candies-among-children-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3199-distribute-candies-among-children-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3227-find-missing-and-repeated-values) |
@@ -897,6 +898,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0204-count-primes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0204-count-primes) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2998-count-symmetric-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3199-distribute-candies-among-children-i) |
 | [3221-find-the-peaks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3221-find-the-peaks) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
