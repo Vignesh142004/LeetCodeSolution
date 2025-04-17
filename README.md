@@ -773,6 +773,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0728-self-dividing-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0728-self-dividing-numbers) |
 | [0909-stone-game](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1013-fibonacci-number) |
+| [1195-distribute-candies-to-people](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1195-distribute-candies-to-people) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1642-water-bottles) |
@@ -1204,6 +1205,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0657-robot-return-to-origin](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0657-robot-return-to-origin) |
 | [0898-transpose-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1195-distribute-candies-to-people](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1195-distribute-candies-to-people) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1642-water-bottles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1642-water-bottles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2132-convert-1d-array-into-2d-array) |
