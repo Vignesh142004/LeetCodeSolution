@@ -1485,5 +1485,6 @@ Here you can find the Solution for Various Leedcode problem
 ## Segment Tree
 |  |
 | ------- |
+| [1511-count-number-of-teams](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1511-count-number-of-teams) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
