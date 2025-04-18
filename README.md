@@ -681,6 +681,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3723-sum-of-good-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3723-sum-of-good-numbers) |
 | [3778-transform-array-by-parity](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3790-fruits-into-baskets-ii) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3832-minimum-cost-to-reach-every-position) |
