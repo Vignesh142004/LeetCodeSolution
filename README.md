@@ -770,6 +770,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0367-valid-perfect-square](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0390-elimination-game) |
+| [0412-fizz-buzz](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0728-self-dividing-numbers) |
 | [0909-stone-game](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0909-stone-game) |
@@ -939,6 +940,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0345-reverse-vowels-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0648-replace-words) |
@@ -1202,6 +1204,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0043-multiply-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0657-robot-return-to-origin) |
 | [0898-transpose-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0898-transpose-matrix) |
