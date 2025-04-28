@@ -568,6 +568,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0455-assign-cookies](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0561-array-partition) |
@@ -705,6 +706,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0387-first-unique-character-in-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0645-set-mismatch) |
@@ -941,6 +943,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0387-first-unique-character-in-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0648-replace-words) |
