@@ -547,6 +547,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0090-subsets-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0179-largest-number) |
@@ -1041,6 +1042,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0029-divide-two-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
