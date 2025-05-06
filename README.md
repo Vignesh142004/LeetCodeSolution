@@ -622,6 +622,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1961-maximum-ice-cream-bars](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -1224,6 +1225,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1195-distribute-candies-to-people](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1195-distribute-candies-to-people) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1642-water-bottles](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1642-water-bottles) |
+| [2048-build-array-from-permutation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2195-time-needed-to-buy-tickets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2265-partition-array-according-to-given-pivot) |
