@@ -812,6 +812,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3626-smallest-divisible-digit-product-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3859-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -1116,6 +1117,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3778-transform-array-by-parity](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3778-transform-array-by-parity) |
+| [3859-maximum-product-of-two-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3859-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
