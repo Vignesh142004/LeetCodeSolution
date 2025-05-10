@@ -593,6 +593,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0948-sort-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1039-find-the-town-judge](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1039-find-the-town-judge) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1072-next-greater-node-in-linked-list) |
 | [1256-rank-transform-of-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1293-three-consecutive-odds) |
@@ -717,6 +718,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0648-replace-words](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1039-find-the-town-judge](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -1417,6 +1419,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0207-course-schedule](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0207-course-schedule) |
 | [0871-keys-and-rooms](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0871-keys-and-rooms) |
+| [1039-find-the-town-judge](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [3189-find-champion-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3189-find-champion-ii) |
