@@ -958,6 +958,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0657-robot-return-to-origin](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0680-valid-palindrome-ii) |
+| [0812-rotate-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0851-goat-latin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1263,6 +1264,7 @@ Here you can find the Solution for Various Leedcode problem
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
