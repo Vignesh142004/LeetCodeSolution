@@ -597,6 +597,7 @@ Here you can find the Solution for Various Leedcode problem
 | [1072-next-greater-node-in-linked-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1072-next-greater-node-in-linked-list) |
 | [1256-rank-transform-of-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1293-three-consecutive-odds) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -785,6 +786,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0909-stone-game](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1013-fibonacci-number) |
 | [1195-distribute-candies-to-people](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1195-distribute-candies-to-people) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1287,6 +1289,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0890-lemonade-change](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1502-construct-k-palindrome-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1961-maximum-ice-cream-bars](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/1961-maximum-ice-cream-bars) |
