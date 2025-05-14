@@ -954,6 +954,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0345-reverse-vowels-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0516-longest-palindromic-subsequence) |
@@ -1026,6 +1027,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0300-longest-increasing-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0678-valid-parenthesis-string) |
@@ -1147,6 +1149,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0344-reverse-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0680-valid-palindrome-ii) |
