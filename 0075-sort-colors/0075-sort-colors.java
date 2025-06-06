@@ -1,7 +1,8 @@
 class Solution {
-    public void sortColors(int[] nums) {
+    public void sortColors(int[] nums) 
+    {
         int n=nums.length;
-       /* for(int i=0;i<n;i++)
+        /*for(int i=0;i<n;i++)
         {
             for(int j=0;j<n-i-1;j++)
             {
@@ -12,7 +13,8 @@ class Solution {
                     nums[j+1]=temp;
                 }
             }
-        }*///bubble sort
+        } Bubble sort*/
+
         /*for(int i=1;i<n;i++)
         {
             int key=nums[i];
@@ -23,7 +25,8 @@ class Solution {
                 j--;
             }
             nums[j+1]=key;
-        }*/ //insertion sort
+        } Insertion sort*/
+
         for(int i=0;i<n;i++)
         {
             int minidx=i;
@@ -38,10 +41,7 @@ class Solution {
             nums[minidx]=nums[i];
             nums[i]=temp;
         }
-        for(int i=0;i<n;i++)
-        {
 
-        }
         
     }
 }
