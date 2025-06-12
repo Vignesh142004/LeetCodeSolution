@@ -548,6 +548,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0084-largest-rectangle-in-histogram](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0136-single-number) |
@@ -857,6 +858,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0098-validate-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0404-sum-of-left-leaves) |
@@ -919,6 +921,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0098-validate-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0404-sum-of-left-leaves) |
@@ -1390,6 +1393,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1467,6 +1471,7 @@ Here you can find the Solution for Various Leedcode problem
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0240-search-a-2d-matrix-ii) |
