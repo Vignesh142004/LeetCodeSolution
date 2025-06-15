@@ -537,6 +537,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0035-search-insert-position](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0053-maximum-subarray) |
@@ -1046,6 +1047,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0022-generate-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0072-edit-distance) |
@@ -1314,6 +1316,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0455-assign-cookies) |
