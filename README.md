@@ -1106,6 +1106,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2308-divide-array-into-equal-pairs](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2427-first-letter-to-appear-twice) |
+| [2659-number-of-even-and-odd-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2659-number-of-even-and-odd-bits) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
