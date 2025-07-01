@@ -1040,6 +1040,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3540-hash-divided-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3540-hash-divided-string) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3617-find-the-original-typed-string-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3811-reverse-degree-of-a-string) |
