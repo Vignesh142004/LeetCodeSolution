@@ -1220,6 +1220,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0240-search-a-2d-matrix-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1562,6 +1563,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0374-guess-number-higher-or-lower) |
 ## Segment Tree
 |  |
