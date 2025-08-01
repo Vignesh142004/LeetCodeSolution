@@ -783,6 +783,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0050-powx-n](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0202-happy-number) |
@@ -859,6 +860,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0101-symmetric-tree) |
@@ -924,6 +926,7 @@ Here you can find the Solution for Various Leedcode problem
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0101-symmetric-tree) |
@@ -1057,6 +1060,7 @@ Here you can find the Solution for Various Leedcode problem
 | [0053-maximum-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0300-longest-increasing-subsequence) |
@@ -1403,6 +1407,7 @@ Here you can find the Solution for Various Leedcode problem
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
