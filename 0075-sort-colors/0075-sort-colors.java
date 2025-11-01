@@ -40,7 +40,7 @@ class Solution {
             int temp=nums[minidx];
             nums[minidx]=nums[i];
             nums[i]=temp;
-        }
+        } // Selection sort
 
         
     }
