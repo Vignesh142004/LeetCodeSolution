@@ -833,6 +833,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Matrix
 |  |
 | ------- |
@@ -1304,6 +1305,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3811-reverse-degree-of-a-string) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Trie
 |  |
 | ------- |
