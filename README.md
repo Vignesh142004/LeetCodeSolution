@@ -701,6 +701,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3778-transform-array-by-parity](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3790-fruits-into-baskets-ii) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [4107-find-missing-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -770,6 +771,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4107-find-missing-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -1168,6 +1170,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3778-transform-array-by-parity](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3859-maximum-product-of-two-digits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [4107-find-missing-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/4107-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
