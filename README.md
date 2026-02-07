@@ -1053,6 +1053,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3636-check-balanced-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3811-reverse-degree-of-a-string) |
+| [3813-vowel-consonant-score](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1312,6 +1313,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3811-reverse-degree-of-a-string) |
+| [3813-vowel-consonant-score](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Trie
