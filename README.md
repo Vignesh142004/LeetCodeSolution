@@ -961,6 +961,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3221-find-the-peaks](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3221-find-the-peaks) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3827-count-monobit-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3827-count-monobit-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -1122,6 +1123,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3827-count-monobit-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3827-count-monobit-integers) |
 ## Sorting
 |  |
 | ------- |
