@@ -835,6 +835,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3625-stone-removal-game](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3783-mirror-distance-of-an-integer) |
 | [3859-maximum-product-of-two-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3859-maximum-product-of-two-digits) |
