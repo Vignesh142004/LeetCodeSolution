@@ -10,11 +10,7 @@ class Solution {
             temp=temp/10;
         }
 
-        if(rev>n)
-        {
-            return rev-n;
-        }
-        return n-rev;
+        return Math.abs(n-rev);
         
     }
 }
