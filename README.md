@@ -834,6 +834,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3626-smallest-divisible-digit-product-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3783-mirror-distance-of-an-integer) |
 | [3859-maximum-product-of-two-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/4051-remove-zeros-in-decimal-representation) |
