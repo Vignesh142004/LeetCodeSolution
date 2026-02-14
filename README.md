@@ -698,6 +698,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3723-sum-of-good-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3723-sum-of-good-numbers) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3790-fruits-into-baskets-ii) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3832-minimum-cost-to-reach-every-position) |
@@ -1177,6 +1178,7 @@ Here you can find the Solution for Various Leedcode problem
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3859-maximum-product-of-two-digits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
