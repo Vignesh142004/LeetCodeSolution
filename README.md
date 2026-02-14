@@ -770,6 +770,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3803-count-residue-prefixes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3803-count-residue-prefixes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1054,6 +1055,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3636-check-balanced-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3794-reverse-string-prefix) |
