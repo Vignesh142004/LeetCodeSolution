@@ -1053,6 +1053,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3617-find-the-original-typed-string-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3798-largest-even-number](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3803-count-residue-prefixes) |
 | [3811-reverse-degree-of-a-string](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3811-reverse-degree-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3813-vowel-consonant-score) |
