@@ -696,6 +696,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3697-compute-decimal-representation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3723-sum-of-good-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3723-sum-of-good-numbers) |
@@ -1137,6 +1138,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3827-count-monobit-integers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3827-count-monobit-integers) |
 ## Sorting
 |  |
@@ -1325,6 +1327,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3625-stone-removal-game](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3625-stone-removal-game) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3790-fruits-into-baskets-ii) |
