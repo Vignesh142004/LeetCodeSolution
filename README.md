@@ -696,6 +696,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3697-compute-decimal-representation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3697-compute-decimal-representation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3723-sum-of-good-numbers](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3723-sum-of-good-numbers) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -835,6 +836,7 @@ Here you can find the Solution for Various Leedcode problem
 | [3625-stone-removal-game](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3697-compute-decimal-representation](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3697-compute-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Vignesh142004/LeetCodeSolution/tree/master/3783-mirror-distance-of-an-integer) |
